@@ -1,0 +1,53 @@
+.id_whatIDo {
+    top: -15vw;
+    position: relative;    
+}
+.whatIdo_box {
+    width: 100%;
+    height: calc(50vh - 200px);
+    background-color: #2f2f2f;
+    padding: 50px 0 150px 0;
+    box-shadow: 0 0 20px 2px black;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+}
+.whatIdo_box h1 {
+    background-image: url(../img/bg.svg);
+    width: 30%;
+    font-size: 6vw;
+    align-self: flex-start;
+    text-shadow: 0 3px 3px black;
+    background-position: center;
+    padding: 0 30px;
+}
+.whatIdo_box p {
+    width: 30%;
+    align-self: flex-end;
+    text-align: left;
+    padding: 0 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
